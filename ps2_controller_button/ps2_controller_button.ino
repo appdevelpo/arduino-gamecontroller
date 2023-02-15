@@ -1,7 +1,6 @@
-
-
-// const char* lis[] = { "L2", "L1" };
 const char* port[6] = {"A0","A1","A2","A3","A6","A7"};
+//button list  {RightShoulder,up,down,left,right,X,A,B,Y,Leftshoulder,Back,Start,RightThumb,LeftThumb}
+//connect to the pin 
 const uint8_t digitalpin[] = {16,8,10,11,9,7,5,23,22,17,12,13,14,15};
 void setup() {
   Serial1.begin(115200);
@@ -16,7 +15,7 @@ void setup() {
 }
 
 void loop() {
-
+  //right analog stick
   Serial1.print(analogRead(A2));
   Serial1.print(" ");
   Serial1.print(analogRead(A3));
