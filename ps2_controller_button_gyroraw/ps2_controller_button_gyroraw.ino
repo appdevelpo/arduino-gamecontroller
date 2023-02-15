@@ -1,7 +1,8 @@
 #include <basicMPU6050.h> 
 basicMPU6050<> imu;
 #include <Wire.h>
-
+//button list  {RightShoulder,up,down,left,right,X,A,B,Y,Leftshoulder,Back,Start,RightThumb,LeftThumb}
+//connect to the pin 
 const uint8_t digitalpin[] = {16,8,10,11,9,7,5,23,22,17,12,13,14,15};
 const char* port[6] = {"A0","A1","A2","A3","A6","A7"};
 void setup(void) {
@@ -44,6 +45,7 @@ void loop() {
   Serial1.println("");
   Serial1.print("@");
   Serial1.print( " " );
+  //gyroscope callibration differs from different mpu6050 
   Serial1.print( imu.rawAx()-966 );
   Serial1.print( " " );
   Serial1.print( imu.rawAy()-964 );
