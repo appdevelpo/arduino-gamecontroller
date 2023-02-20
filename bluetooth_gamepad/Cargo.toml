@@ -1,0 +1,11 @@
+[package]
+name = "bluetooth_gamepad_gyro"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+serialport = "4.2.0"
+vigem = "0.9.1"
+pad-motion = "0.1.6"

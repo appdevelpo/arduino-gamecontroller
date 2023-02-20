@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\rust_playground\bluetooth_gamepad\target\debug\deps\pad_motion-b35e29a33528d61c.rmeta: C:\Users\USER\.cargo\registry\src\github.com-1ecc6299db9ec823\pad-motion-0.1.6\src\lib.rs C:\Users\USER\.cargo\registry\src\github.com-1ecc6299db9ec823\pad-motion-0.1.6\src\protocol\mod.rs C:\Users\USER\.cargo\registry\src\github.com-1ecc6299db9ec823\pad-motion-0.1.6\src\protocol\internals.rs C:\Users\USER\.cargo\registry\src\github.com-1ecc6299db9ec823\pad-motion-0.1.6\src\server.rs C:\Users\USER\.cargo\registry\src\github.com-1ecc6299db9ec823\pad-motion-0.1.6\src\client.rs
+
+C:\Users\USER\Desktop\rust_playground\bluetooth_gamepad\target\debug\deps\libpad_motion-b35e29a33528d61c.rlib: C:\Users\USER\.cargo\registry\src\github.com-1ecc6299db9ec823\pad-motion-0.1.6\src\lib.rs C:\Users\USER\.cargo\registry\src\github.com-1ecc6299db9ec823\pad-motion-0.1.6\src\protocol\mod.rs C:\Users\USER\.cargo\registry\src\github.com-1ecc6299db9ec823\pad-motion-0.1.6\src\protocol\internals.rs C:\Users\USER\.cargo\registry\src\github.com-1ecc6299db9ec823\pad-motion-0.1.6\src\server.rs C:\Users\USER\.cargo\registry\src\github.com-1ecc6299db9ec823\pad-motion-0.1.6\src\client.rs
+
+C:\Users\USER\Desktop\rust_playground\bluetooth_gamepad\target\debug\deps\pad_motion-b35e29a33528d61c.d: C:\Users\USER\.cargo\registry\src\github.com-1ecc6299db9ec823\pad-motion-0.1.6\src\lib.rs C:\Users\USER\.cargo\registry\src\github.com-1ecc6299db9ec823\pad-motion-0.1.6\src\protocol\mod.rs C:\Users\USER\.cargo\registry\src\github.com-1ecc6299db9ec823\pad-motion-0.1.6\src\protocol\internals.rs C:\Users\USER\.cargo\registry\src\github.com-1ecc6299db9ec823\pad-motion-0.1.6\src\server.rs C:\Users\USER\.cargo\registry\src\github.com-1ecc6299db9ec823\pad-motion-0.1.6\src\client.rs
+
+C:\Users\USER\.cargo\registry\src\github.com-1ecc6299db9ec823\pad-motion-0.1.6\src\lib.rs:
+C:\Users\USER\.cargo\registry\src\github.com-1ecc6299db9ec823\pad-motion-0.1.6\src\protocol\mod.rs:
+C:\Users\USER\.cargo\registry\src\github.com-1ecc6299db9ec823\pad-motion-0.1.6\src\protocol\internals.rs:
+C:\Users\USER\.cargo\registry\src\github.com-1ecc6299db9ec823\pad-motion-0.1.6\src\server.rs:
+C:\Users\USER\.cargo\registry\src\github.com-1ecc6299db9ec823\pad-motion-0.1.6\src\client.rs:
