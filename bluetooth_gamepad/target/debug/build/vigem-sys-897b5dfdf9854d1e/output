@@ -1,4 +1,0 @@
-cargo:rerun-if-changed=build.rs
-cargo:rustc-link-search=static=C:\Users\USER\Desktop\rust_playground\bluetooth_gamepad\target\debug\build\vigem-sys-897b5dfdf9854d1e\out\
-cargo:rustc-link-lib=setupapi
-cargo:rustc-link-lib=VigemClient_x64
